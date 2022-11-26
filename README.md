@@ -25,3 +25,5 @@ None
 ![GitHub](https://img.shields.io/github/license/kaiyfa/password-generator)
  
 ## Deployment URL
+
+https://kaiyfa.github.io/password-generator/
